@@ -13,7 +13,7 @@ networks running, and I break them in labs to learn how they fail.
 **Learning in the open**
 
 - Hack The Box Starting Point: 10 machines, Meow through Vaccine (the first Tier 2 box)
-- HTB Academy: Junior Cybersecurity Analyst path — 8 modules complete, including Windows Fundamentals and Bash Scripting
+- HTB Academy: CPTS path, in progress
 - Every finished box becomes a writeup, and the useful ones also become a Sigma rule: [detection-rules](https://github.com/the-ghostterminal/detection-rules) maps each rule back to the writeup it came from
 - The_GhostTerminal: short terminal-first demos, one tool or command per video
 
